@@ -1,0 +1,4 @@
+*.zip
+*.csv
+/.ipynb_checkpoints
+/kartdatasett_csv/kartdatasett_csv
