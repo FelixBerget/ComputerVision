@@ -27,7 +27,7 @@ First is the function that finds labels and predictions from the test set and th
 Then the code to run everything
 
 - Lists are created based on the measurables
-- 10 epochs are run and the measurables is printed out and stored in arrays
+- 10 epochs are run and the measurables are printed out and stored in arrays
 - Graph is made based on the loss lists
 - Confusion matrix function is used
 
